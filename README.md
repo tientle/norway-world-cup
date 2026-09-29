@@ -2,6 +2,8 @@
 
 A static HTML/CSS/JavaScript explainer for GitHub Pages. The interactive forecasts are precomputed from the accompanying Norway analysis notebook using only international matches dated before June 10, 2026. `data.json` contains nine model settings, six opponent forecasts per setting, and three dated knockout opening prices for a 90-minute Norway-win market.
 
+https://tientle.github.io/norway-world-cup/
+
 ## Preview locally
 
 From this directory:
