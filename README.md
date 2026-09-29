@@ -23,5 +23,3 @@ Put the four site files (`index.html`, `styles.css`, `app.js`, `data.json`) at t
 - Independent Poisson score probabilities for neutral one-off matches. These are illustrative, uncalibrated forecasts. The market quote is an outright title price and must not be compared numerically with match win probabilities.
 - A retrospective $100-stake illustration applies a more-than-five-percentage-point edge rule to all three Norway knockout matches, using reported opening 90-minute prices. The default model skips Ivory Coast and selects Brazil and England; settlement is +$310 and −$100, for +$210 net on $200 staked. This tiny, post-hoc example is not evidence of a robust or executable strategy.
 - The full calculations, price sources, caveats, and AI assistance disclosure are in the notebook and page footer.
-
-Run the notebook to reproduce the underlying analysis before submitting the project. Cite the dataset, FIFA, odds preview, and lecture as shown on the page.
